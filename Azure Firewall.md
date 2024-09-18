@@ -1,4 +1,4 @@
-Establishing Azure Firewall on a Nginx Website
+<u><h1>Establishing Azure Firewall on a Nginx Website</h1></u>
 1.	Creating a Resource Group  “Network-RG” 
 <br>
 <a href="https://ibb.co/4mjKmJy"><img src="https://i.ibb.co/7YGjYbc/1.png" alt="1" border="0" /></a><br>
@@ -27,11 +27,11 @@ Establishing Azure Firewall on a Nginx Website
 <br>
 <a href="https://ibb.co/QQLht5F"><img src="https://i.ibb.co/2hxRHb7/7.png" alt="7" border="0" /></a>
 <br>
-8.	Installing Nginx application
+8.	Installing Nginx application on the Server.
 <br>
 <a href="https://ibb.co/SVRNsbH"><img src="https://i.ibb.co/Yfp2RmJ/8.png" alt="8" border="0" /></a>
 <br>
-9.	Creating file at /var/www/html to create the website.
+9.	Creating index.html file at /var/www/html to create the website.
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/fxxzdvD/10.png" alt="10" border="0" /></a>
 <br>
@@ -43,7 +43,7 @@ Establishing Azure Firewall on a Nginx Website
 <br>
 <a href="https://ibb.co/yXbcsgf"><img src="https://i.ibb.co/rm1Ry57/11.png" alt="11" border="0" /></a>
 <br>
-12.	Configuring Azure Firewall.
+12.	Configuring Azure Firewall "New-Vnet-Firewall".
 <br>
 <a href="https://ibb.co/zNk8NDP"><img src="https://i.ibb.co/vDtsDRL/12.png" alt="12" border="0" /></a>
 <br>
